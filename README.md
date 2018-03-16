@@ -1,6 +1,8 @@
-# ObservablesStart
+# angular5-guide-observables
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+
+This is for the udemy course the-complete-guide-to-angular 
 
 ## Development server
 
